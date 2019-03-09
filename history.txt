@@ -1,0 +1,38 @@
+  108  pwd 
+  109  ls 
+  110  cd Desktop/DevOps/Git/
+  111  LS 
+  112  ls 
+  113  git version 
+  114  git clone git@github.com:vibz1989/Vibs.git
+  115  ssh-keygen 
+  116  cat /Users/vibz/.ssh/id_rsa.pub
+  117  cleAR
+  118  git clone git@github.com:vibz1989/Vibs.git
+  119  ls 
+  120  cd Vibs/
+  121  ls 
+  122  ls 
+  123  git add .
+  124  git commit -m "1st commit"
+  125  git push 
+  126  vi README.md 
+  127  git add .
+  128  git commit -m "edited Readme file"
+  129  git push 
+  130  git log 
+  131  git branch test
+  132  git branch
+  133  git checkout test 
+  134  touch vibz.txt
+  135  git add .
+  136  git commit -m "added file to test branch"
+  137  git push 
+  138  git push --set-upstream origin test
+  139  history 
+  140  git branch 
+  141  git checkout master
+  142  git branch 
+  143  touch   history.txt
+  144  history 
+
